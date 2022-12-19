@@ -44,6 +44,10 @@ h6 {
     font-size: 30px;
     color: #3d3d3d;
 }
+p{
+    font-size: 15px;
+    margin-left: 15px;
+}
 .engan{
 	font-size: 25px;
 	color: grey;
@@ -110,4 +114,16 @@ h6 {
 }
 .kaiti{
     font-family: "STKaiti";
+}
+.footer {
+    padding: 5px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", "Noto Sans", "Noto Sans CJK SC", "Noto Sans CJK", "Source Han Sans", "PingFang SC", "Segoe UI", "Microsoft YaHei", sans-serif;
+    font-size: 15px;
+    background:linear-gradient(white,#e8e8e8);
+    color: grey;
+    margin-top: 10px;
+}
+.latex{
+    font: normal 1.21em KaTeX_Main, Times New Roman, serif;
 }
