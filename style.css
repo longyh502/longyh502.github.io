@@ -9,6 +9,8 @@ body{
 a{
 	color: #3498db;
     text-decoration: none;
+    font-family: "STZhongsong";
+    font-size: 15px;
 }
 button{
     height: 1.75rem;
@@ -35,7 +37,7 @@ h1, h2, h3, h4, h5 {
     font-weight: 300;
     font-size: 40px;
     color: #3d3d3d;
-    line-height: 1.1;
+    line-height: 0.4;
 }
 h6 {
     font-weight: 200;
@@ -50,7 +52,7 @@ h6 {
     height: auto;
     width:100%;
     margin-left: 0;
-    background:rgb(189, 181, 181);
+    background:linear-gradient(to right,#3498db,#8e44ad);
     position: fixed;
     top: 0;
     margin-bottom: 5px;
@@ -105,4 +107,7 @@ h6 {
 .list li{
     font-weight: 20;
     font-size: 20px;
+}
+.kaiti{
+    font-family: "STKaiti";
 }
